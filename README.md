@@ -1,2 +1,2 @@
 # Machine-Learning
-This repository is to load my projects works that i have worked on across my journey in Computer science.
+This repository is to load my work and projects that i have worked on during the semester in Computer science.
